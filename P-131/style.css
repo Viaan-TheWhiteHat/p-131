@@ -1,0 +1,39 @@
+body
+{
+    background-size: cover;
+    background-position: center; 
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.main_div
+{
+    background-color: transparent;
+    padding: 10px;
+    margin: 15px;
+    border: 3px solid;
+    color: transparent;
+}
+
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    border: 1px solid;
+}
